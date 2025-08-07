@@ -21,7 +21,7 @@ Next-gen B2B app development kit, helping global brands connect with millions th
 
 ---
 
-#### 🏢 [CXApp](https://cxapp.com) - The Workplace SuperApp | 08.2023 - 12.2024 | [Android](https://play.google.com/store/apps/developer?id=CXApp) | [iOS](https://apps.apple.com/us/developer/cxapp-us-inc/id692960350?see-all=i-phone-apps) | [T. Rowe Price](https://play.google.com/store/apps/details?id=com.cxai.troweprice)  Android | iOS | T. Rowe Price
+#### 🏢 [CXApp](https://cxapp.com) - The Workplace SuperApp | 08.2023 - 12.2024 | [Android](https://play.google.com/store/apps/developer?id=CXApp) | [iOS](https://apps.apple.com/us/developer/cxapp-us-inc/id692960350?see-all=i-phone-apps) | [T. Rowe Price](https://play.google.com/store/apps/details?id=com.cxai.troweprice)
 
 A B2B mobile app empowering employees in hybrid work environments with streamlined experiences. Trusted by 40+ leading companies, including Adobe, PepsiCo, T. Rowe Price, Electronic Arts, Lenovo, and Warner Bros. Discovery.
 
