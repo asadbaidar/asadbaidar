@@ -12,16 +12,16 @@
 
 ## 🌟 Featured Projects
 
-#### 🔊 [LivePerson](https://developers.liveperson.com/) - Android Messaging SDK | 04.2025 - Present
+#### 🔊 [LivePerson](https://developers.liveperson.com/) - Messaging SDK | 04.2025 - Present
 
-Next-gen B2B Android development kit, helping global brands connect with millions through AI-powered messaging.
+Next-gen B2B app development kit, helping global brands connect with millions through AI-powered messaging.
 
 * 🛡 Addressed and mitigated security vulnerabilities, eliminated numerous bugs, and implemented key performance improvements for the SDK, resulting in a more secure and efficient user experience.
 * 🛠 Designed and deployed CI/CD processes for fully automated SDK publishing to Maven, improving release frequency and reliability.
 
 ---
 
-#### 🏢 [CXApp](https://cxapp.com) - The Workplace SuperApp | 08.2023 - 12.2024 | [Play Store](https://play.google.com/store/apps/developer?id=CXApp) | [T. Row Price](https://play.google.com/store/apps/details?id=com.cxai.troweprice)
+#### 🏢 [CXApp](https://cxapp.com) - The Workplace SuperApp | 08.2023 - 12.2024 | [Android](https://play.google.com/store/apps/developer?id=CXApp) | [iOS](https://apps.apple.com/us/developer/cxapp-us-inc/id692960350?see-all=i-phone-apps) | [T. Rowe Price](https://play.google.com/store/apps/details?id=com.cxai.troweprice)  Android | iOS | T. Rowe Price
 
 A B2B mobile app empowering employees in hybrid work environments with streamlined experiences. Trusted by 40+ leading companies, including Adobe, PepsiCo, T. Rowe Price, Electronic Arts, Lenovo, and Warner Bros. Discovery.
 
@@ -67,7 +67,7 @@ A mobile shopping app that allows users to purchase items and pay in three easy 
 
 ---
 
-#### 🏥 Shaukat Khanum App - Hospital Information System | 02.2017 - 01.2022 | [iOS](https://apps.apple.com/pk/app/shaukat-khanum-app/id1461460671) | [Android](https://play.google.com/store/apps/details?id=org.skm.medicareskm)
+#### 🏥 Shaukat Khanum App - Hospital Information System | 02.2017 - 01.2022 | [Android](https://play.google.com/store/apps/details?id=org.skm.medicareskm) | [iOS](https://apps.apple.com/pk/app/shaukat-khanum-app/id1461460671)
 
 An advanced system that enables a seamless experience for patients to connect with the hospital, healthcare professionals to administer patient care, and management to oversee resources.
 
