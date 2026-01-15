@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Asad
 
-👨‍💻 **Senior Mobile Engineer | Tech Lead | Mobile Architect**
+👨‍💻 **Senior Mobile AI Engineer | Tech Lead | Mobile Architect**
 
-📱 8+ years building mobile applications — Android, Flutter, iOS
+📱 9+ years building mobile applications — KMP, Android, Flutter, iOS
 
-🏢 Empowered many global brands, including **LivePerson**, **Adobe**, **Electronic Arts**, **Lenovo**, and **Warner Bros. Discovery**
+🏢 Empowered many global brands, including **DocuSketch, LivePerson**, **Adobe**, **Electronic Arts**, **Lenovo**, and **Warner Bros. Discovery**
 
-🚀 Passionate about clean architecture, developer performance, and purposeful user experiences
+🚀 Passionate about AI-First engineering, clean architecture, developer performance, and purposeful user experiences
 
 <br>
 
